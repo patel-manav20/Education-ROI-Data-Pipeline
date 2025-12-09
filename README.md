@@ -205,7 +205,6 @@ dags/
 └── README.md                          # This file
 
 docker-compose.yaml                   # Docker Airflow setup
-Dockerfile                            # Custom Airflow image
 ```
 
 ## 🔧 Configuration
