@@ -56,7 +56,7 @@ This project contains 4 ETL pipelines that process data for graduate ROI forecas
                            │
                            ▼
               ┌────────────────────────┐
-              │   Analytics & Reports  │        │
+              │   Analytics & Reports  │       
               └────────────────────────┘
 ```
 
